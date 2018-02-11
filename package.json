@@ -1,6 +1,6 @@
 {
   "name": "react-trix",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "React wrapper around Basecamp's Trix editor.",
   "main": "main.js",
   "scripts": {
@@ -59,8 +59,8 @@
     "webpack": "^2.3.0"
   },
   "peerDependencies": {
-    "react": ">=0.14.0 <= 15",
-    "react-dom": ">=0.14.0 <= 15"
+    "react": ">=0.14.0 <= 17",
+    "react-dom": ">=0.14.0 <= 17"
   },
   "files": [
     "dist",
